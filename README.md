@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil-kamleshwar
 - 👀 I’m interested in travelling and reading books
-- 🌱 I’m currently learning C/C++ and DATA STRUCTURES 
+- 🌱 I’m into cloud computing and DevOps Engineering 
 - 📫 You can reach me by my id- sahilkamleshwar@gmail.com
 
 <!---
